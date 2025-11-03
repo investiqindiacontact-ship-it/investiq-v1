@@ -111,7 +111,7 @@ body {
     /* UPDATED: Increased dimensions for central node */
     width: 277px; 
     height: 277px;
-    border-radius: 50%;
+    border-radius: 12px;
     border: 3px solid var(--accent-color);
     background-color: var(--surface-color);
     box-shadow: 0 0 20px rgba(46, 140, 87, 0.4);
@@ -124,10 +124,10 @@ body {
     justify-content: center;
 }
 .central-company img {
-    /* Logo size kept the same */
+    /* Rectangular logo */
     width: 80px; 
     height: 80px;
-    border-radius: 50%;
+    border-radius: 0;
     margin-bottom: 5px;
     object-fit: contain;
     background-color: white;
