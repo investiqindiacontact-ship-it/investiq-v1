@@ -24,7 +24,7 @@ body {
 
 /* --- Header & Search --- */
 .app-header {
-    padding: 1rem 2rem;
+    padding: 0rem 0.75rem;
     background-color: var(--surface-color);
     box-shadow: 0 2px 10px var(--shadow-color);
     z-index: 20;
@@ -40,8 +40,8 @@ body {
     align-items: center;
 }
 #header-logo {
-    /* UPDATED: Increased height from 30px to 95px */
-    height: 95px; 
+    /* Smaller bar: modestly sized logo */
+    height: 72px; 
     margin-right: 10px; 
 }
 .title-container h1 {
@@ -50,11 +50,11 @@ body {
     color: var(--accent-color);
 }
 .search-container {
-    /* UPDATED: Increased flex-grow and max-width */
+    /* tighter margins to keep header compact */
     flex-grow: 2;
     text-align: center;
-    margin: 0 5rem;
-    max-width: 800px;
+    margin: 0 1.5rem;
+    max-width: 680px;
 }
 #search-bar {
     padding: 0.75rem 1rem;
