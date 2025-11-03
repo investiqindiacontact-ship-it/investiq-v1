@@ -1,0 +1,364 @@
+/* --- Global & Theme --- */
+:root {
+    --bg-color: #1a1a2e;
+    --surface-color: #2e2e4e;
+    --accent-color: #2e8c57; /* Green accent color */
+    --text-primary: #d1d0d0;
+    --text-secondary: #ffffff; 
+    --shadow-color: rgba(0, 0, 0, 0.4);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow: hidden; 
+}
+
+/* --- Header & Search --- */
+.app-header {
+    padding: 1rem 2rem;
+    background-color: var(--surface-color);
+    box-shadow: 0 2px 10px var(--shadow-color);
+    z-index: 20;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+}
+.title-container {
+    /* Ensures logo and title align horizontally */
+    display: flex;
+    align-items: center;
+}
+#header-logo {
+    /* UPDATED: Increased height from 30px to 95px */
+    height: 95px; 
+    margin-right: 10px; 
+}
+.title-container h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--accent-color);
+}
+.search-container {
+    /* UPDATED: Increased flex-grow and max-width */
+    flex-grow: 2;
+    text-align: center;
+    margin: 0 5rem;
+    max-width: 800px;
+}
+#search-bar {
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--accent-color);
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    width: 100%;
+    font-size: 1rem;
+}
+
+/* --- Main Content & Hub Container --- */
+.main-content {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto; /* Allows scrolling if visualization is zoomed or large */
+}
+
+.company-hub-container {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-hub {
+    position: relative;
+    width: 1200px; 
+    height: 700px;
+    
+    display: grid;
+    grid-template-areas:
+        "tl tc tr"
+        "cl cc cr"
+        "bl bc br";
+    /* IMPORTANT: Must adjust center column size to accommodate the larger central node */
+    grid-template-columns: 1fr 280px 1fr; 
+    grid-template-rows: 1fr 280px 1fr; /* Adjusted row size */
+    place-items: center; 
+}
+#indian-suppliers-box { grid-area: tl; }
+#major-investors-box { grid-area: tc; }
+#indian-competitors-box { grid-area: tr; }
+#global-suppliers-box { grid-area: bl; }
+#financials-box { grid-area: bc; }
+#global-competitors-box { grid-area: br; }
+.central-company { grid-area: cc; }
+
+.central-company {
+    /* UPDATED: Increased dimensions for central node */
+    width: 277px; 
+    height: 277px;
+    border-radius: 50%;
+    border: 3px solid var(--accent-color);
+    background-color: var(--surface-color);
+    box-shadow: 0 0 20px rgba(46, 140, 87, 0.4);
+    z-index: 10;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.central-company img {
+    /* Logo size kept the same */
+    width: 80px; 
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    object-fit: contain;
+    background-color: white;
+    padding: 5px;
+}
+.central-company h2 { margin: 0; font-size: 1.2rem; }
+.central-company p { margin: 0; font-size: 0.8rem; color: var(--text-secondary); }
+
+.box {
+    min-width: 180px;
+    height: 120px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background-color: var(--surface-color);
+    box-shadow: 0 5px 15px var(--shadow-color);
+    z-index: 5; 
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.box h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+    
+    color: var(--accent-color);
+    font-size: 1.0rem;
+    text-align: center;
+    border-bottom: 1px solid #3b3b5e;
+}
+.box ul { list-style: none; padding: 0; margin: 0; width: 100%; overflow: hidden; }
+.box li { 
+    margin-bottom: 3px; 
+    font-size: 0.9rem; 
+    
+    display: flex; 
+    justify-content: space-between;
+}
+.box li span:first-child { color: var(--text-secondary); }
+.box li a { 
+    color: var(--text-secondary);
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+.box li a:hover { color: var(--accent-color); text-decoration: underline; }
+
+#financials-box ul li { font-weight: bold; }
+#financials-box ul li span:last-child { color: var(--text-primary); }
+
+.line-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none; 
+    z-index: 1; 
+}
+
+.line-canvas path, .line-canvas line {
+    stroke: var(--accent-color);
+    stroke-width: 2;
+    fill: none;
+    transition: stroke 0.3s ease;
+}
+
+.line-canvas defs marker {
+    fill: var(--accent-color);
+}
+
+.chat-assistant-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 4px 10px var(--shadow-color);
+    transition: background-color 0.3s, transform 0.2s;
+    z-index: 100;
+}
+.chat-assistant-button:hover {
+    background-color: #5a6ed1;
+    transform: scale(1.05);
+}
+
+.chat-popup {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 320px;
+    height: 400px;
+    border-radius: 12px;
+    background-color: var(--surface-color);
+    box-shadow: 0 5px 25px var(--shadow-color);
+    z-index: 99;
+    overflow: hidden;
+    
+    display: none; 
+    flex-direction: column;
+}
+.chat-header {
+    padding: 10px 15px;
+    background-color: #3b3b5e;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.chat-header button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    line-height: 1;
+}
+.chat-body {
+    flex-grow: 1;
+    padding: 15px;
+    overflow-y: auto;
+    gap: 10px;
+    
+    display: flex;
+    flex-direction: column;
+}
+.chat-message {
+    padding: 8px 12px;
+    border-radius: 12px;
+    max-width: 85%;
+    font-size: 0.9rem;
+    word-wrap: break-word;
+}
+.chat-message.user {
+    align-self: flex-end;
+    background-color: var(--accent-color);
+    color: white;
+    border-bottom-right-radius: 2px;
+}
+.chat-message.ai {
+    align-self: flex-start;
+    background-color: #3b3b5e;
+    color: white;
+    border-bottom-left-radius: 2px;
+}
+.loading-indicator {
+    color: var(--text-secondary);
+    font-style: italic;
+}
+.chat-footer {
+    padding: 10px 15px;
+    border-top: 1px solid #3b3b5e;
+    
+    display: flex;
+}
+.chat-footer input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #4a4a6e;
+    background-color: var(--bg-color);
+    color: white;
+    outline: none;
+}
+.chat-footer button {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 50%;
+    
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 1024px) {
+    .company-hub {
+        width: 900px;
+        height: 600px;
+        grid-template-columns: 1fr 180px 1fr;
+        grid-template-rows: 1fr 180px 1fr;
+        gap: 30px;
+    }
+    .central-company {
+        width: 180px;
+        height: 180px;
+    }
+}
+
+@media (max-width: 768px) {
+    .app-header { flex-direction: column; padding: 0.5rem; }
+    .title-container { margin-bottom: 0.5rem; }
+    .search-container { width: 90%; margin: 0 auto; }
+    
+    .main-content { overflow-y: auto; }
+    .company-hub-container { height: auto; align-items: flex-start; }
+    .company-hub {
+        position: static;
+        width: 90%;
+        min-height: 1200px;
+        grid-template-areas:
+            "tc tc tc"
+            "cc cc cc"
+            "tl tl tl"
+            "bl bl bl"
+            "tr tr tr"
+            "br br br"
+            "bc bc bc";
+        grid-template-columns: 1fr 1fr 1fr; 
+        grid-template-rows: auto auto auto auto auto auto auto;
+        gap: 20px;
+        padding: 20px 0;
+    }
+    .central-company { margin-top: 20px; }
+    .line-canvas { display: none; }
+    .box { min-width: 100%; height: auto; }
+    #major-investors-box, #financials-box, #indian-suppliers-box, 
+    #global-suppliers-box, #indian-competitors-box, #global-competitors-box 
+    { grid-column: span 3; } 
+}

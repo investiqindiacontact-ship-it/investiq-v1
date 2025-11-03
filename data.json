@@ -1,0 +1,2195 @@
+{
+  "companies": [
+    {
+      "id": "ADANIENT",
+      "name": "Adani Enterprises Ltd",
+      "logo": "./Adani Enterprises Ltd.jpg",
+      "sector": "Metals & Mining",
+      "investors": [
+        "Promoter holding: 73.97%",
+        "Flls: 11.72%",
+        "Dlls: 4.39%",
+        "LIC",
+        "HDFC Mutual Fund",
+        "SBI Mutual Fund",
+        "Mirae Asset"
+      ],
+      "competition": {
+        "indian": [
+          "NTPC",
+          "Larsen & Toubro",
+          "Tata Projects"
+        ],
+        "global": [
+          "Reliance Infrastructure"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Siemens India",
+          "Larsen & Toubro",
+          "Welspun Industries"
+        ],
+        "global": [
+          "International African Regions Partners"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹2.57 lakh crore",
+        "P/E Ratio": "97",
+        "EPS": "₹23",
+        "Revenue": "₹1,50,000 crore (FY24)",
+        "PAT": "₹2,800 crore (FY24)",
+        "Debt-to-equity": "2.2",
+        "1-year stock performance": "+17%"
+      },
+      "International Presence": "Active across 12+ countries, including Singapore, UAE, Australia, and multiple African regions"
+    },
+    {
+      "id": "ADANIPORTS",
+      "name": "Adani Ports & SEZ Ltd",
+      "logo": "./Adani Ports.png",
+      "sector": "Services - Logistics",
+      "investors": [
+        "Promoter holding: 65.89%",
+        "Flls: 13.61%",
+        "Dlls: 9.46%",
+        "LIC",
+        "Kotak MF",
+        "HDFC MF",
+        "Rakesh Jhunjhunwala family holdings (historical association)"
+      ],
+      "competition": {
+        "indian": [
+          "JSW Infrastructure",
+          "Essar Ports",
+          "Dhamra Port Holdings"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "Larsen & Toubro",
+          "ABB India",
+          "Siemens"
+        ],
+        "global": [
+          "Australia Partners",
+          "Singapore Partners"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹2.9 lakh crore",
+        "P/E Ratio": "27",
+        "EPS": "₹28",
+        "Revenue": "₹25,200 crore (FY24)",
+        "PAT": "₹6,200 crore (FY24)",
+        "Debt-to-equity": "0.7",
+        "1-year stock performance": "+22%"
+      },
+      "International Presence": "Operations in India, Australia, and Singapore; manages 17 ports in total"
+    },
+    {
+      "id": "APOLLOHOSP",
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "logo": "./apollo-logo.svg",
+      "sector": "Healthcare - Hospitals",
+      "investors": [
+        "Promoter holding: 28.02%",
+        "Flls: 44.2%",
+        "Dlls: 4.65%",
+        "LIC",
+        "HDFC Life",
+        "Franklin Templeton MF",
+        "Ramesh Damani"
+      ],
+      "competition": {
+        "indian": [
+          "Fortis Healthcare",
+          "Max Healthcare",
+          "Narayana Hrudayalaya"
+        ],
+        "global": [
+          "HCA Healthcare"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Allcare Medical Systems",
+          "Apollo Pharmacy",
+          "Apollo Diagnostics"
+        ],
+        "global": [
+          "Siemens Healthineers",
+          "GE Healthcare India",
+          "Medical Equipment N"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹79,000 crore",
+        "P/E Ratio": "90",
+        "EPS": "₹75",
+        "Revenue": "₹20,300 crore (FY24)",
+        "PAT": "₹1,500 crore (FY24)",
+        "Debt-to-equity": "0.45",
+        "1-year stock performance": "+12%"
+      },
+      "International Presence": "Present in 10+ countries including India, Sri Lanka, Bangladesh, Middle East, and Nigeria"
+    },
+    {
+      "id": "BAJAJFINSV",
+      "name": "Bajaj Finserv Ltd",
+      "logo": "./Bajaj Finserv.png",
+      "sector": "Financial Services",
+      "investors": [
+        "Promoter holding: 58.81%",
+        "Flls: 8.41%",
+        "Dlls: 0.32%",
+        "LIC",
+        "ICICI Prudential MF",
+        "HDFC MF"
+      ],
+      "competition": {
+        "indian": [
+          "HDFCLIFE",
+          "ICICI Lombard",
+          "SBILIFE",
+          "Muthoot Finance"
+        ],
+        "global": [
+          "Allianz SE"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Infosys BPM",
+          "TCS BFSI Solutions",
+          "major Indian payment aggregators"
+        ],
+        "global": [
+          "Insurance Re-insurers"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹3.05 lakh crore",
+        "P/E Ratio": "28",
+        "EPS": "₹83",
+        "Revenue": "₹1,33,821 crore (FY25 provisional)",
+        "PAT": "₹8,872 crore (FY25 provisional)",
+        "Debt-to-equity": "2.8",
+        "1-year stock performance": "+17%"
+      },
+      "International Presence": "Operations in India, UAE, and Singapore via its insurance and lending subsidiaries"
+    },
+    {
+      "id": "BEL",
+      "name": "Bharat Electronics Ltd",
+      "logo": "./Bharat Electronics Ltd.png",
+      "sector": "Defence/Electronics",
+      "investors": [
+        "Promoter holding: 51.14% (Government of India)",
+        "Flls: 18.24%",
+        "Dlls: 19.1%",
+        "LIC",
+        "SBI Mutual Fund",
+        "HDFC MF",
+        "Kotak MF"
+      ],
+      "competition": {
+        "indian": [
+          "Hindustan Aeronautics (HAL)",
+          "Data Patterns",
+          "Astra Microwave",
+          "MTAR Technologies"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "L&T Technology Services",
+          "Nelco",
+          "Data Patterns",
+          "Centum Electronics"
+        ],
+        "global": []
+      },
+      "financials": {
+        "Market Cap": "₹3.06 lakh crore",
+        "P/E Ratio": "35-55 range",
+        "EPS": "₹6.4",
+        "Revenue": "₹23,769 crore (FY25)",
+        "PAT": "₹5,323 crore (FY25)",
+        "Debt-to-equity": "0.01",
+        "1-year stock performance": "+44%"
+      },
+      "International Presence": "Exports defence and electronic systems to 10+ countries including the UAE, Southeast Asia, and Europe"
+    },
+    {
+      "id": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd",
+      "logo": "./Bharti Airtel Ltd.png",
+      "sector": "Telecommunication",
+      "investors": [
+        "Promoter holding: 55.95%",
+        "Flls: 16.88%",
+        "Dlls: 25.4%",
+        "LIC",
+        "GIC Singapore",
+        "Axis MF",
+        "SBI MF",
+        "Rakesh Jhunjhunwala's estate (historical small position)"
+      ],
+      "competition": {
+        "indian": [
+          "Reliance Jio",
+          "Vodafone Idea"
+        ],
+        "global": [
+          "Vodafone",
+          "T-Mobile"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Sterlite Technologies",
+          "Tejas Networks",
+          "HFCL"
+        ],
+        "global": [
+          "Ciena India"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹7.1 lakh crore",
+        "P/E Ratio": "28",
+        "EPS": "₹40.6",
+        "Revenue": "₹1,49,982 crore (FY25)",
+        "PAT": "₹23,501 crore (FY25)",
+        "Debt-to-equity": "1.38",
+        "1-year stock performance": "+27%"
+      },
+      "International Presence": "Operations in 18 countries including India, Seychelles, Kenya, Nigeria, and Bangladesh"
+    },
+    {
+      "id": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd",
+      "logo": "./BPCL.png",
+      "sector": "Oil, Gas & Consumable Fuels",
+      "investors": [
+        "Promoter holding: 52.98% (Government of India)",
+        "Flls: 17.41%",
+        "Dlls: 20.02%",
+        "LIC",
+        "GIC",
+        "ICICI Prudential MF"
+      ],
+      "competition": {
+        "indian": [
+          "Indian Oil Corporation (IOCL)",
+          "Hindustan Petroleum (HPCL)",
+          "ONGC"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "Engineers India",
+          "Linde India",
+          "Thermax",
+          "Honeywell Automation India"
+        ],
+        "global": []
+      },
+      "financials": {
+        "Market Cap": "₹1.12 lakh crore",
+        "P/E Ratio": "12",
+        "EPS": "Around ₹105",
+        "Revenue": "₹4,98,000 crore (FY25)",
+        "PAT": "Around ₹13,300 crore (FY25)",
+        "Debt-to-equity": "0.98",
+        "1-year stock performance": "+13%"
+      },
+      "International Presence": "Operations and trading offices in Middle Eastern and African regions; exports refined petroleum products to over 5 countries"
+    },
+    {
+      "id": "BRITANNIA",
+      "name": "Britannia Industries Ltd",
+      "logo": "./Britannia Industries Ltd.png",
+      "sector": "FMCG - Food",
+      "investors": [
+        "Promoter holding: 50.55%",
+        "Flls: 17.64%",
+        "Dlls: 22.48%",
+        "LIC",
+        "SBI Mutual Fund",
+        "Axis MF",
+        "Franklin Templeton MF",
+        "Radhakishan Damani (historical exposure)"
+      ],
+      "competition": {
+        "indian": [
+          "NESTLEIND",
+          "HINDUNILVR",
+          "ITC",
+          "Marico"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "Varun Beverages",
+          "Hatsun Agro",
+          "DFM Foods",
+          "Heritage Foods"
+        ],
+        "global": []
+      },
+      "financials": {
+        "Market Cap": "₹1.2 lakh crore",
+        "P/E Ratio": "Around 50",
+        "EPS": "₹114",
+        "Revenue": "₹16,859 crore (FY25)",
+        "PAT": "₹2,130 crore (FY25)",
+        "Debt-to-equity": "0.5",
+        "1-year stock performance": "+10%"
+      },
+      "International Presence": "Exports and operations across 75 countries, with a growing network in the Middle East, Africa, and Southeast Asia"
+    },
+    {
+      "id": "CIPLA",
+      "name": "Cipla Ltd",
+      "logo": "./cipla logo.jpg",
+      "sector": "Healthcare - Pharma",
+      "investors": [
+        "Promoter holding: 33.36%",
+        "Flls: 22.31%",
+        "Dlls: 16.24%",
+        "LIC",
+        "HDFC MF",
+        "SBI MF",
+        "Ramesh Damani (pharma holdings historically)"
+      ],
+      "competition": {
+        "indian": [
+          "SUNPHARMA",
+          "DRREDDY",
+          "Lupin",
+          "Aurobindo Pharma"
+        ],
+        "global": [
+          "Mylan"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Laurus Labs",
+          "DIVISLAB",
+          "Aarti Drugs",
+          "Granules India"
+        ],
+        "global": [
+          "Cipla USA"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1.17 lakh crore",
+        "P/E Ratio": "29",
+        "EPS": "₹58",
+        "Revenue": "₹25,774+ crore (FY24)",
+        "PAT": "₹4,650 crore (FY24)",
+        "Debt-to-equity": "0.15",
+        "1-year stock performance": "+18%"
+      },
+      "International Presence": "Operations across more than 80 countries spanning Africa, Latin America, the US, and Europe"
+    },
+    {
+      "id": "COALINDIA",
+      "name": "Coal India Ltd",
+      "logo": "./coal india.png",
+      "sector": "Mining - Coal",
+      "investors": [
+        "Promoter holding: 63.13% (Government of India)",
+        "Flls: 7.96%",
+        "Dlls: 10.82%",
+        "LIC",
+        "HDFC MF",
+        "Mirae Asset MF"
+      ],
+      "competition": {
+        "indian": [
+          "NLC India",
+          "Gujarat Mineral Development Corp (GMDC)",
+          "Singareni Collieries"
+        ],
+        "global": [
+          "Peabody Energy"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "BEML Ltd",
+          "LT",
+          "Tata Steel Mining",
+          "Coal Handling Equipment manufacturers"
+        ],
+        "global": [
+          "Mining Equipment H"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹2.24 lakh crore",
+        "P/E Ratio": "12",
+        "EPS": "₹54",
+        "Revenue": "₹1,43,369 crore (FY25)",
+        "PAT": "₹35,302 crore (FY25)",
+        "Debt-to-equity": "0.13",
+        "1-year stock performance": "+21%"
+      },
+      "International Presence": "Limited international mining collaborations; small foothold in Mozambique and Africa through subsidiaries"
+    },
+    {
+      "id": "DIVISLAB",
+      "name": "Divi's Laboratories Ltd",
+      "logo": "./Divi's Laboratories Ltd.png",
+      "sector": "Healthcare - Pharma (API)",
+      "investors": [
+        "Promoter holding: 51.89%",
+        "Flls: 19.39%",
+        "Dlls: 6.43%",
+        "LIC",
+        "SBI MF",
+        "HDFC MF"
+      ],
+      "competition": {
+        "indian": [
+          "DRREDDY",
+          "CIPLA",
+          "SUNPHARMA",
+          "Lupin"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "Laurus Labs",
+          "Granules India",
+          "Aarti Industries"
+        ],
+        "global": []
+      },
+      "financials": {
+        "Market Cap": "₹71,000 crore",
+        "P/E Ratio": "33",
+        "EPS": "₹78",
+        "Revenue": "Around ₹9,845 crore (FY25 est.)",
+        "PAT": "Projected near ₹2,900 crore (FY25 est.)",
+        "Debt-to-equity": "0.01",
+        "1-year stock performance": "+20%"
+      },
+      "International Presence": "Exports to more than 60 countries including the US, Europe, Japan, and across Asia-Pacific markets"
+    },
+    {
+      "id": "DRREDDY",
+      "name": "Dr. Reddy's Laboratories Ltd",
+      "logo": "./dr raddey.png",
+      "sector": "Healthcare - Pharma",
+      "investors": [
+        "Promoter holding: 26.64%",
+        "Flls: 36.36%",
+        "Dlls: 26.74%",
+        "HDFC MF",
+        "ICICI Prudential MF",
+        "SBI MF"
+      ],
+      "competition": {
+        "indian": [
+          "CIPLA",
+          "SUNPHARMA",
+          "Lupin",
+          "Aurobindo Pharma"
+        ],
+        "global": [
+          "Novartis"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Aurobindo Pharma",
+          "Laurus Labs",
+          "DIVISLAB"
+        ],
+        "global": [
+          "Raw Material Supplier K"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹63,000 crore",
+        "P/E Ratio": "24",
+        "EPS": "₹78",
+        "Revenue": "₹24,100 crore (FY25)",
+        "PAT": "₹3,125 crore (FY25)",
+        "Debt-to-equity": "0.17",
+        "1-year stock performance": "+8%"
+      },
+      "International Presence": "Business in over 90 countries including the US, Europe, India, and Russia; key export-driven revenue base"
+    },
+    {
+      "id": "EICHERMOT",
+      "name": "Eicher Motors Ltd",
+      "logo": "./Eicher Motors Ltd.png",
+      "sector": "Automobile - Two Wheeler",
+      "investors": [
+        "Promoter holding: 49.07%",
+        "Flls: 25.82%",
+        "Dlls: 4.74%",
+        "LIC",
+        "SBI Mutual Fund",
+        "HDFC Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "BAJAJ-AUTO",
+          "HEROMOTOCO",
+          "TVS Motor"
+        ],
+        "global": [
+          "Harley-Davidson"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Bosch Ltd",
+          "Minda Corporation",
+          "Varroc Engineering"
+        ],
+        "global": [
+          "Volvo Group (JV)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹48,000 crore",
+        "P/E Ratio": "48",
+        "EPS": "₹54",
+        "Revenue": "Estimated ₹12,500 crore (FY25)",
+        "PAT": "Approx ₹1,950 crore (FY25)",
+        "Debt-to-equity": "0.01",
+        "1-year stock performance": "+15%"
+      },
+      "International Presence": "Presence in 40+ countries including India, Europe, USA, and the Middle East"
+    },
+    {
+      "id": "GRASIM",
+      "name": "Grasim Industries Ltd",
+      "logo": "./Grasim Industries Ltd.jpg",
+      "sector": "Construction Materials",
+      "investors": [
+        "Promoter holding: 43.11%",
+        "Flls: 15.94%",
+        "Dlls: 10.85%",
+        "SBI Mutual Fund",
+        "HDFC Mutual Fund",
+        "Axis Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "ULTRACEMCO",
+          "ACC",
+          "Shree Cement"
+        ],
+        "global": [
+          "LafargeHolcim"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Aditya Birla Chemicals",
+          "BASF India",
+          "Grasim Cement Unit Partners"
+        ],
+        "global": [
+          "UltraTech Cement (57%)",
+          "Aditya Birla Capital (55%)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹82,000 crore",
+        "P/E Ratio": "22",
+        "EPS": "₹59",
+        "Revenue": "Expected to cross ₹55,000 crore (FY25)",
+        "PAT": "Profit growth over 5% YoY (FY25 est.)",
+        "Debt-to-equity": "0.61",
+        "1-year stock performance": "+13%"
+      },
+      "International Presence": "Operations in India, Indonesia, Egypt, and Thailand"
+    },
+    {
+      "id": "HCLTECH",
+      "name": "HCL Technologies Ltd",
+      "logo": "./HCL Technologies Ltd.png",
+      "sector": "Information Technology",
+      "investors": [
+        "Promoter holding: 60.81%",
+        "Flls: 18.56%",
+        "Dlls: 7.78%",
+        "ICICI Mutual Fund",
+        "SBI Mutual Fund",
+        "Nippon India MF"
+      ],
+      "competition": {
+        "indian": [
+          "INFY",
+          "TCS",
+          "WIPRO",
+          "TECHM"
+        ],
+        "global": [
+          "DXC Technology"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Microsoft India",
+          "Dell",
+          "Cisco"
+        ],
+        "global": [
+          "AWS",
+          "IBM",
+          "Google"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,25,000 crore",
+        "P/E Ratio": "23",
+        "EPS": "₹55",
+        "Revenue": "Estimated ₹67,500 crore (FY25)",
+        "PAT": "Rising to ₹11,850 crore (FY25 est.)",
+        "Debt-to-equity": "0.05",
+        "1-year stock performance": "+10%"
+      },
+      "International Presence": "Over 50 countries including US, Europe, India, and Asia"
+    },
+    {
+      "id": "HDFCBANK",
+      "name": "HDFC Bank Ltd",
+      "logo": "./HDFC Bank Ltd.png",
+      "sector": "Banking",
+      "investors": [
+        "Promoter holding: 0% (widely held)",
+        "Flls: 48.38%",
+        "Dlls: 2.98%",
+        "LIC",
+        "SBI Mutual Fund",
+        "HDFC Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "ICICIBANK",
+          "AXISBANK",
+          "KOTAKBANK"
+        ],
+        "global": [
+          "Citigroup",
+          "HSBC"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Infosys Finacle",
+          "Aceware Technologies",
+          "IBM"
+        ],
+        "global": [
+          "Standard Life",
+          "Software Vendor A"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹8,75,000 crore",
+        "P/E Ratio": "23",
+        "EPS": "₹52",
+        "Revenue": "Expected around ₹1,50,000 crore (FY25)",
+        "PAT": "Estimated close to ₹38,000 crore (FY25)",
+        "Debt-to-equity": "10",
+        "1-year stock performance": "+16%"
+      },
+      "International Presence": "Branches in India, Dubai, Bahrain, and Hong Kong"
+    },
+    {
+      "id": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company",
+      "logo": "./hdfc life.png",
+      "sector": "Financial Services - Insurance",
+      "investors": [
+        "Promoter holding: 50.28%",
+        "Flls: 24.75%",
+        "Dlls: 0.58%",
+        "HDFC Mutual Fund",
+        "Nippon India MF",
+        "SBI Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "SBILIFE",
+          "ICICI Prudential",
+          "MAXLIFE"
+        ],
+        "global": [
+          "MetLife"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Insurance software platforms",
+          "PolicyBazaar",
+          "various technology vendors"
+        ],
+        "global": [
+          "Standard Life Aberdeen (1%)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹45,000 crore",
+        "P/E Ratio": "32",
+        "EPS": "₹36",
+        "Revenue": "Above ₹20,000 crore (FY25 est.)",
+        "PAT": "Surpassing ₹2,500 crore (FY25 est.)",
+        "Debt-to-equity": "N/A (insurance company)",
+        "1-year stock performance": "+18%"
+      },
+      "International Presence": "Operations primarily in India with select markets in the Middle East"
+    },
+    {
+      "id": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd",
+      "logo": "./Hero MotoCorp Ltd.png",
+      "sector": "Automobile - Two Wheeler",
+      "investors": [
+        "Promoter holding: 34.73%",
+        "Flls: 28.75%",
+        "Dlls: 10.44%",
+        "LIC",
+        "HDFC Mutual Fund",
+        "SBI Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "BAJAJ-AUTO",
+          "TVS Motor",
+          "EICHERMOT"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "MRF Ltd",
+          "Bosch Ltd",
+          "Varroc Engineering",
+          "Exide Industries"
+        ],
+        "global": []
+      },
+      "financials": {
+        "Market Cap": "₹58,000 crore",
+        "P/E Ratio": "32",
+        "EPS": "₹48",
+        "Revenue": "Around ₹46,000 crore (FY25 est.)",
+        "PAT": "Steady profit growth (FY25 est.)",
+        "Debt-to-equity": "0.04",
+        "1-year stock performance": "+11%"
+      },
+      "International Presence": "More than 40 countries including India, Africa, Latin America, and Asia"
+    },
+    {
+      "id": "HINDALCO",
+      "name": "Hindalco Industries Ltd",
+      "logo": "./Hindalco Industries logo.jpg",
+      "sector": "Metals - Aluminium",
+      "investors": [
+        "Promoter holding: 47.16%",
+        "Flls: 15.29%",
+        "Dlls: 10.06%",
+        "SBI Mutual Fund",
+        "LIC",
+        "HDFC Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "Vedanta",
+          "Nalco",
+          "National Aluminium Company"
+        ],
+        "global": [
+          "Alcoa"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "LT",
+          "SIEMENS",
+          "TATASTEEL"
+        ],
+        "global": [
+          "Novelis (USA)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,12,000 crore",
+        "P/E Ratio": "20",
+        "EPS": "₹48",
+        "Revenue": "Expected to surpass ₹1,05,000 crore (FY25)",
+        "PAT": "Steady profit growth (FY25 est.)",
+        "Debt-to-equity": "0.65",
+        "1-year stock performance": "+12%"
+      },
+      "International Presence": "Operations in India, Indonesia, and Europe"
+    },
+    {
+      "id": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd",
+      "logo": "./Hindustan Unilever Ltd.png",
+      "sector": "FMCG",
+      "investors": [
+        "Promoter holding: 61.92%",
+        "Flls: 12.85%",
+        "Dlls: 10.37%",
+        "ICICI Mutual Fund",
+        "HDFC Mutual Fund",
+        "Axis Mutual Fund",
+        "Radhakishan Damani (via DMart holdings)"
+      ],
+      "competition": {
+        "indian": [
+          "ITC",
+          "Godrej Consumer Products"
+        ],
+        "global": [
+          "NESTLEIND",
+          "Procter & Gamble"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Godrej Agrovet",
+          "Marico",
+          "Tata Chemicals"
+        ],
+        "global": [
+          "Unilever Global"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹6.0 lakh crore",
+        "P/E Ratio": "35",
+        "EPS": "₹48",
+        "Revenue": "Expected around ₹70,000 crore (FY25)",
+        "PAT": "Slightly improving profit (FY25 est.)",
+        "Debt-to-equity": "0.02",
+        "1-year stock performance": "+13%"
+      },
+      "International Presence": "More than 50 countries including India, South Asia, and Africa"
+    },
+    {
+      "id": "ICICIBANK",
+      "name": "ICICI Bank Ltd",
+      "logo": "./ICICI Bank Ltd.png",
+      "sector": "Banking",
+      "investors": [
+        "Promoter holding: 0% (widely-held)",
+        "Flls: 44.73%",
+        "Dlls: 9.97%",
+        "LIC",
+        "SBI Mutual Fund",
+        "HDFC Mutual Fund"
+      ],
+      "competition": {
+        "indian": [
+          "HDFCBANK",
+          "AXISBANK",
+          "KOTAKBANK"
+        ],
+        "global": [
+          "Standard Chartered"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "INFY",
+          "WIPRO",
+          "Mphasis"
+        ],
+        "global": [
+          "ICICI Pru Life (51%)",
+          "Prudential"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹4.7 lakh crore",
+        "P/E Ratio": "23",
+        "EPS": "₹76",
+        "Revenue": "Expected near ₹1,30,000 crore (FY25)",
+        "PAT": "Around ₹23,500 crore (FY25 est.)",
+        "Debt-to-equity": "11",
+        "1-year stock performance": "+18%"
+      },
+      "International Presence": "India plus branches in UK, Singapore, and Dubai"
+    },
+    {
+      "id": "RELIANCE",
+      "name": "Reliance Industries Ltd",
+      "logo": "./Reliance Industries Ltd.png",
+      "sector": "Oil, Gas & Consumable Fuels, Digital, Retail, New Energy",
+      "investors": [
+        "Promoters: 50.01%",
+        "DII: 20.4%",
+        "FII: 18.7%",
+        "LIC",
+        "Vanguard Group",
+        "BlackRock"
+      ],
+      "competition": {
+        "indian": [
+          "BHARTIARTL",
+          "TATA Group (Retail/Digital)",
+          "ADANIENT (New Energy)"
+        ],
+        "global": [
+          "BP (Partner/Competitor)",
+          "ExxonMobil",
+          "Amazon India"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "RIIL (Affiliate)",
+          "KONSTELEC (EPC Services)"
+        ],
+        "global": [
+          "BP (Gas Sourcing/Jio-BP Partner)",
+          "Global Equipment OEMs (New Energy)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,984,947.1 Cr",
+        "P/E Ratio": "20.45x (TTM)",
+        "EPS": "51.45 (FY24)",
+        "Revenue": "₹1,071,174 Crore (FY25)",
+        "PAT": "₹81,309 Crore (FY25)",
+        "Debt-to-equity": "0.41x",
+        "Jio EBITDA Margin": "51.6% (Q2 FY26)"
+      }
+    },
+    {
+      "id": "TCS",
+      "name": "Tata Consultancy Services Ltd",
+      "logo": "./Tata Consultancy Services Ltd.png",
+      "sector": "Information Technology",
+      "investors": [
+        "Promoters (72%)",
+        "FII (18%)",
+        "DII (10%)"
+      ],
+      "competition": {
+        "indian": [
+          "INFY",
+          "WIPRO",
+          "HCLTECH"
+        ],
+        "global": [
+          "Accenture",
+          "Capgemini"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "TATA Group Infra"
+        ],
+        "global": [
+          "Microsoft",
+          "Google Cloud",
+          "AWS"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,074,210 Cr",
+        "P/E Ratio": "21.36",
+        "EPS": "138.98",
+        "Revenue": "₹263,289 Cr",
+        "PAT": "₹48,489 Cr",
+        "Div Yield": "2.02%",
+        "52W High": "₹4,592.25",
+        "52W Low": "₹3,311.0",
+        "YTD Return": "-18.2%"
+      }
+    },
+    {
+      "id": "SBIN",
+      "name": "State Bank of India",
+      "logo": "./State Bank of India.png",
+      "sector": "Banking",
+      "investors": [
+        "Promoters (57.5%)",
+        "FII (12%)",
+        "DII (20%)"
+      ],
+      "competition": {
+        "indian": [
+          "HDFCBANK",
+          "ICICIBANK",
+          "KOTAKBANK"
+        ],
+        "global": [
+          "JP Morgan"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "SBI Cards",
+          "SBILIFE",
+          "SBI Mutual Fund"
+        ],
+        "global": [
+          "FIS Global"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹818,063 Cr",
+        "P/E Ratio": "10.3",
+        "EPS": "86.05",
+        "Revenue": "₹502,915 Cr",
+        "PAT": "₹88,108 Cr",
+        "Div Yield": "1.79%",
+        "52W High": "₹912.0",
+        "52W Low": "₹598.5",
+        "YTD Return": "25.3%"
+      }
+    },
+    {
+      "id": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd",
+      "logo": "./Bajaj Finance Ltd.png",
+      "sector": "Financial Services - NBFC",
+      "investors": [
+        "Promoters (52.49%)",
+        "FII (28%)",
+        "DII (19%)"
+      ],
+      "competition": {
+        "indian": [
+          "SHRIRAMFIN"
+        ],
+        "global": [
+          "Capital One"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Bajaj Housing Finance",
+          "Bajaj Group Companies"
+        ],
+        "global": [
+          "Fintech Partner C"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹659,721 Cr",
+        "P/E Ratio": "37.86",
+        "EPS": "27.99",
+        "Revenue": "₹78,088 Cr",
+        "PAT": "₹19,046 Cr",
+        "Div Yield": "0.42%",
+        "52W High": "₹8,192.0",
+        "52W Low": "₹6,187.8",
+        "YTD Return": "-15.8%"
+      }
+    },
+    {
+      "id": "INFY",
+      "name": "Infosys Limited",
+      "logo": "./Infosys Ltd.png",
+      "sector": "Information Technology",
+      "investors": [
+        "Promoter Holding: 14.61%",
+        "DII Total: 41.7%",
+        "FII Holding: 30.1%",
+        "Mutual Fund Holding: 22.73%",
+        "LIC: 6.20%"
+      ],
+      "competition": {
+        "indian": [
+          "TCS",
+          "WIPRO",
+          "HCLTECH",
+          "LTIM"
+        ],
+        "global": [
+          "Accenture",
+          "IBM",
+          "Cognizant",
+          "MRE Consulting"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "InSemi (Semiconductor Design)",
+          "Telenor (HR Modernization Partner)",
+          "Punjab National Bank (PNB) (Banking Partner)"
+        ],
+        "global": [
+          "Microsoft",
+          "SAP",
+          "Oracle",
+          "In-tech (Germany, Engineering R&D)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹ 6,15,807 Cr",
+        "P/E Ratio": "22.5x (TTM)",
+        "EPS": "₹64.50 (FY25)",
+        "Revenue": "₹162,990 Cr (FY25)",
+        "PAT": "₹26,713 Cr (FY25)",
+        "Debt-to-equity": "0.08x",
+        "1-Year Return": "-16%"
+      }
+    },
+    {
+      "id": "ONGC",
+      "name": "Oil and Natural Gas Corporation",
+      "logo": "./ONGC.png",
+      "sector": "Oil & Gas - Exploration & Production (E&P)",
+      "investors": [
+        "Promoter (GoI): 58.89%",
+        "DII (Total): 30.2%",
+        "Insurance: 10.70%",
+        "FII/FPI: 7.08%"
+      ],
+      "competition": {
+        "indian": [
+          "RELIANCE",
+          "Oil India (OILINDIA)"
+        ],
+        "global": [
+          "Exxon Mobil",
+          "Shell",
+          "TotalEnergies"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "LT (Offshore EPC)",
+          "HPCL (Affiliate)",
+          "MRPL (Affiliate)"
+        ],
+        "global": [
+          "SAED (Windfall Tax)",
+          "Global EPC Contractors"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹3,12,922 Cr",
+        "P/E Ratio": "8.53x (TTM)",
+        "EPS": "₹39.06 (FY24)",
+        "Revenue": "₹6,58,346 crore (FY25)",
+        "Net Profit Margin": "27.4% (FY25)",
+        "Debt-to-equity": "0.50x (Cons.)",
+        "Div Yield": "4.95%"
+      }
+    },
+    {
+      "id": "JSWSTEEL",
+      "name": "JSW Steel Ltd",
+      "logo": "./jsw.png",
+      "sector": "Metals - Steel",
+      "investors": [
+        "Promoter holding: 45.32%",
+        "FII/FPI: 25.56%",
+        "DII Total: 10.87%",
+        "Mutual Funds: 4.69%",
+        "JFE Steel International Europe B.V. (~15%)"
+      ],
+      "competition": {
+        "indian": [
+          "TATASTEEL",
+          "HINDALCO",
+          "Steel Authority of India Ltd. (SAIL)"
+        ],
+        "global": [
+          "ArcelorMittal",
+          "POSCO",
+          "Nippon Steel"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Coal India Limited (CIL) (Domestic Coal Linkage)",
+          "JSW Holdings Limited (Affiliate)"
+        ],
+        "global": [
+          "JFE Steel (Technology Partner)",
+          "Illawarra Coal Holdings (Australia)",
+          "Mozambique Coal Project"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹287,000 Cr",
+        "P/E Ratio": "42.5",
+        "EPS": "36.17 (FY24)",
+        "Revenue": "₹1,75,006 Cr (FY24)",
+        "PAT": "₹8,973 Cr (FY24)",
+        "Debt-to-equity": "0.94x (Q4 FY25)",
+        "Net Debt/EBITDA": "3.34x (Q4 FY25)"
+      }
+    },
+    {
+      "id": "TATASTEEL",
+      "name": "Tata Steel Ltd",
+      "logo": "./tata steel.png",
+      "sector": "Metals - Steel",
+      "investors": [
+        "Promoter holding: 33.20%",
+        "FII/FPI: 17.29%",
+        "Mutual Funds: 14.37%",
+        "Insurance Companies: 10.83%",
+        "Tata Sons Private Limited (32%)",
+        "LIC of India (8.0%)",
+        "SBI Funds Management Limited (4.1%)"
+      ],
+      "competition": {
+        "indian": [
+          "JSWSTEEL",
+          "HINDALCO",
+          "Steel Authority of India Limited (SAIL)"
+        ],
+        "global": [
+          "China Baowu Group",
+          "ArcelorMittal",
+          "POSCO Holdings"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Steel Authority of India Ltd (SAIL) (JV for Coal)",
+          "Indian Railways (Logistics Partner)"
+        ],
+        "global": [
+          "Coking Coal Suppliers (International)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹2.2 Trillion",
+        "P/E Ratio": "64.5x",
+        "EPS": "₹2.5 (FY25 TTM)",
+        "Revenue": "₹2,18,543 Crores (FY25)",
+        "PAT": "N/A (Positive EPS, FY25)",
+        "Debt-to-equity": "0.8 - 0.99",
+        "Net Profit Margin": "1.5% (FY25)"
+      }
+    },
+    {
+      "id": "TATAMOTORS",
+      "name": "Tata Motors Passenger Vehicles Ltd",
+      "logo": "./tata motors.png",
+      "sector": "Automobile - Passenger Vehicles & Global Luxury (JLR)",
+      "investors": [
+        "Promoter: 42.57%",
+        "FII: 17.18%",
+        "DII: ~17.19%",
+        "LIC (3.89%)",
+        "Rekha Jhunjhunwala (1.30%)"
+      ],
+      "competition": {
+        "indian": [
+          "MARUTI",
+          "M&M",
+          "TML Commercial Vehicles Ltd (TMLCV)"
+        ],
+        "global": [
+          "Mercedes-Benz Group AG",
+          "BMW AG",
+          "General Motors (GM)"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Sona BLW Precision Forgings (SONACOMS)",
+          "EXIDEIND (Battery Localization)",
+          "TATAPOWER (Charging Network)"
+        ],
+        "global": [
+          "Jaguar Land Rover (Internal Subsidiary)",
+          "Volkswagen Group (Battery Technology)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "N/A",
+        "P/E Ratio": "6.16x-6.86x (TTM)",
+        "EPS": "N/A",
+        "Revenue": "₹4,45,939 Crores (FY25E)",
+        "PAT": "₹27,830 Crores (FY25E)",
+        "Debt-to-equity": "0.0x (Net Cash)",
+        "RoE": "23.1% (FY25E)"
+      }
+    },
+    {
+      "id": "WIPRO",
+      "name": "Wipro Limited",
+      "logo": "./wipro.png",
+      "sector": "Information Technology, Consulting",
+      "investors": [
+        "Promoter Group: 72.7%",
+        "FII/FPI: 8.5%",
+        "Mutual Funds: 4.35%",
+        "LIC: 2.68%",
+        "BlackRock, Inc. (1.77%)"
+      ],
+      "competition": {
+        "indian": [
+          "TCS",
+          "INFY",
+          "HCLTECH"
+        ],
+        "global": [
+          "Accenture",
+          "Capgemini",
+          "Deloitte",
+          "IBM Global Services"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Wipro Engineering Edge (Internal)",
+          "Red Hat (Open Source solutions - India)"
+        ],
+        "global": [
+          "AWS",
+          "Google",
+          "Microsoft (Azure)",
+          "SAP",
+          "Oracle"
+        ]
+      },
+      "financials": {
+        "Market Cap": "$28.66 Billion USD",
+        "P/E Ratio": "18.70x (TTM)",
+        "EPS": "₹47.91 (FY25)",
+        "Revenue": "$10.428 Billion (FY25)",
+        "PAT": "₹131.4 Billion (FY25)",
+        "Debt-to-equity": "0.1x",
+        "1-Year Return": "-8.88%"
+      }
+    },
+    {
+      "id": "MARUTI",
+      "name": "Maruti Suzuki India Limited",
+      "logo": "./Maruti Suzuki India Limited.png",
+      "sector": "Automobile - Passenger Vehicles",
+      "investors": [
+        "Promoter (SMC): 58.30%",
+        "FII/FPI: 15.78%",
+        "Mutual Funds: 14.60%",
+        "DII (Total): 22.60%"
+      ],
+      "competition": {
+        "indian": [
+          "TATAMOTORS",
+          "M&M",
+          "Hyundai"
+        ],
+        "global": [
+          "EV Competition (e-Vitara vs. Tata Curvv EV, MG ZS EV, BYD Atto 3)"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "JTEKT India Limited (JTEKTINDIA) (Promoter/Strategic Supplier)",
+          "Sona BLW Precision Forgings Limited (SONACOMS)",
+          "NDR Auto Components Limited"
+        ],
+        "global": [
+          "Suzuki Motor Corporation (SMC) (Parent)",
+          "Rare Earth Magnet Vendors (Geopolitical Risk)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "N/A",
+        "P/E Ratio": "35.46x (TTM)",
+        "EPS": "N/A",
+        "Revenue": "1,529,130 INR Million (FY25)",
+        "PAT": "145,330 INR Million (FY25)",
+        "Debt-to-equity": "0.0x (Debt-Free)",
+        "Export Growth": "17.5% (FY25 YoY)"
+      }
+    },
+    {
+      "id": "M&M",
+      "name": "Mahindra & Mahindra Ltd",
+      "logo": "./Mahindra & Mahindra Ltd.png",
+      "sector": "Automobile & Farm Equipment",
+      "investors": [
+        "FII: 38.0%",
+        "DII: 30.0%",
+        "Promoter: 18.4%",
+        "Mutual Funds: 16.35%"
+      ],
+      "competition": {
+        "indian": [
+          "TATAMOTORS",
+          "MARUTI",
+          "BAJAJ-AUTO"
+        ],
+        "global": [
+          "John Deere (Tractors)",
+          "Kubota (Tractors)",
+          "Volkswagen (EV Platform)"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Samvardhana Motherson Intl. Ltd.",
+          "Mahindra Logistics (Affiliate)",
+          "Accelo (Internal)"
+        ],
+        "global": [
+          "Volkswagen Group (MEB/INGLO Components)",
+          "Battery Commodity Suppliers"
+        ]
+      },
+      "financials": {
+        "Market Cap": "INR 3.89 Trillion (T)",
+        "P/E Ratio": "28.54x",
+        "EPS": "115.91 (FY25)",
+        "Revenue": "₹1,61,361.03 Cr (FY25)",
+        "PAT": "₹12,929.10 Cr (FY25)",
+        "Debt-to-equity": "1.45x",
+        "ROCE": "27.42%"
+      }
+    },
+    {
+      "id": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd",
+      "logo": "./bajaj auto.png",
+      "sector": "Automobile - Two Wheeler",
+      "investors": [
+        "Promoters (50.1%)",
+        "FII (10.30%)",
+        "DII (39%)"
+      ],
+      "competition": {
+        "indian": [
+          "EICHERMOT"
+        ],
+        "global": [
+          "Honda Motors"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Auto Components G"
+        ],
+        "global": [
+          "KTM India",
+          "Triumph"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹254,194 Cr",
+        "P/E Ratio": "33.48",
+        "EPS": "271.92",
+        "Revenue": "₹52,530 Cr",
+        "PAT": "₹8,842 Cr",
+        "Div Yield": "2.31%",
+        "52W High": "₹11,990.1",
+        "52W Low": "₹7,089.35",
+        "YTD Return": "-0.02%"
+      }
+    },
+    {
+      "id": "NESTLEIND",
+      "name": "Nestle India Ltd",
+      "logo": "./Nestle India Ltd.png",
+      "sector": "FMCG - Food",
+      "investors": [
+        "Promoters (62.8%)",
+        "FII (15%)",
+        "DII (22%)"
+      ],
+      "competition": {
+        "indian": [
+          "ITC",
+          "HINDUNILVR"
+        ],
+        "global": [
+          "Danone",
+          "Kraft Heinz"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Dairy Farms I"
+        ],
+        "global": [
+          "Nestle SA (62.8%)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹232,000 Cr",
+        "P/E Ratio": "68.5",
+        "EPS": "41.61",
+        "Revenue": "₹20,286 Cr",
+        "PAT": "₹3,386 Cr",
+        "Div Yield": "1.75%",
+        "52W High": "₹2,769.3",
+        "52W Low": "₹2,180.0",
+        "YTD Return": "18.5%"
+      }
+    },
+    {
+      "id": "TRENT",
+      "name": "Trent Ltd",
+      "logo": "./trent logo.png",
+      "sector": "Consumer Services - Retail",
+      "investors": [
+        "Promoters (40.4%)",
+        "FII (28%)",
+        "DII (31%)"
+      ],
+      "competition": {
+        "indian": [
+          "Reliance Retail"
+        ],
+        "global": [
+          "H&M",
+          "Zara"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Westside",
+          "Zudio",
+          "Tata Group"
+        ],
+        "global": [
+          "International Apparel Vendor"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹167,612 Cr",
+        "P/E Ratio": "109.7",
+        "EPS": "42.98",
+        "Revenue": "₹15,278 Cr",
+        "PAT": "₹1,527 Cr",
+        "Div Yield": "0.11%",
+        "52W High": "₹8,250.0",
+        "52W Low": "₹3,538.7",
+        "YTD Return": "28.5%"
+      }
+    },
+    {
+      "id": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd",
+      "logo": "./power grid.jpg",
+      "sector": "Power - Transmission",
+      "investors": [
+        "Promoter (GoI): 51.34%",
+        "FII/FPI: 25.66%",
+        "DII (Total): 19.40%",
+        "Mutual Funds: 13.35%",
+        "LIC (Insurance)"
+      ],
+      "competition": {
+        "indian": [
+          "ADANITRANS (Adani Energy Solutions)",
+          "TATAPOWER",
+          "NTPC"
+        ],
+        "global": [
+          "National Grid"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "ABB India",
+          "SIEMENS",
+          "Transformers & Rectifiers"
+        ],
+        "global": [
+          "Hitachi Energy (UHV/HVDC)",
+          "General Electric",
+          "Mitsubishi Electric"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹3,31,722.95 Cr",
+        "P/E Ratio": "17.27x",
+        "EPS": "₹16.69 (FY25)",
+        "Revenue": "₹47,459 crore (FY25)",
+        "PAT": "₹15,521 Cr (FY25)",
+        "Debt-to-equity": "1.2x",
+        "Debtor Days": "85.3"
+      }
+    },
+    {
+      "id": "SHRIRAMFIN",
+      "name": "Shriram Finance Ltd",
+      "logo": "./shriram finace.png",
+      "sector": "Financial Services - NBFC",
+      "investors": [
+        "Promoters (12.2%)",
+        "FII (32%)",
+        "DII (56%)"
+      ],
+      "competition": {
+        "indian": [
+          "BAJFINANCE"
+        ],
+        "global": [
+          "Orix Corp"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Shriram Housing Finance",
+          "Shriram Group"
+        ],
+        "global": [
+          "IT Vendor J"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹123,500 Cr",
+        "P/E Ratio": "15.8",
+        "EPS": "205.7",
+        "Revenue": "₹54,123 Cr",
+        "PAT": "₹7,823 Cr",
+        "Div Yield": "0.46%",
+        "52W High": "₹3,729.0",
+        "52W Low": "₹2,385.5",
+        "YTD Return": "28.5%"
+      }
+    },
+    {
+      "id": "TECHM",
+      "name": "Tech Mahindra Limited",
+      "logo": "./tech mahindra.png",
+      "sector": "Information Technology, Consulting (Telecom Focus)",
+      "investors": [
+        "Promoters: 35.00%",
+        "DII: 32.13%",
+        "FII: 23.28%",
+        "Mutual Funds: 16.51%",
+        "LIC (over 10.8%)"
+      ],
+      "competition": {
+        "indian": [
+          "TCS",
+          "INFY",
+          "WIPRO",
+          "HCLTECH"
+        ],
+        "global": [
+          "Accenture",
+          "IBM",
+          "Capgemini",
+          "Deloitte"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "BHARTIARTL (Strategic Partner)",
+          "Mahindra Logistics Limited (MAHLOG) (Affiliate)"
+        ],
+        "global": [
+          "Advanced Micro Devices (AMD)",
+          "Celonis",
+          "SAP",
+          "Service Now"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1.41 Trillion",
+        "P/E Ratio": "31.47x (Oct 2025)",
+        "EPS": "₹47.91 (FY25)",
+        "Revenue": "₹52,988.30 Crores (FY25)",
+        "PAT": "₹4,252.00 Crores (FY25)",
+        "Debt-to-equity": "0.07",
+        "PAT YoY Growth": "80.3%"
+      }
+    },
+    {
+      "id": "INDIGO",
+      "name": "InterGlobe Aviation Ltd",
+      "logo": "./IndiGo_logo_2x.avif",
+      "sector": "Aviation - Low-Cost Carrier",
+      "investors": [
+        "Promoter Holding: 43.54%",
+        "FIIs: 27.31%",
+        "DIIs: 6.88%",
+        "Mutual Funds: 17.21%",
+        "Vanguard Total International Stock Index Fund"
+      ],
+      "competition": {
+        "indian": [
+          "Air India Group",
+          "Akasa Air",
+          "SpiceJet"
+        ],
+        "global": [
+          "Southwest Airlines (USA)",
+          "Ryanair (Ireland/Europe)",
+          "AirAsia Group (Malaysia)"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Taneja Aerospace & Aviation Ltd (Potential MRO)",
+          "Hindustan Aeronautics Limited (HAL) (Potential MRO)"
+        ],
+        "global": [
+          "Airbus SE (Aircraft - Critical Dependency)",
+          "CFM International (Engines - Primary)",
+          "Pratt & Whitney (Engines - GTF Issues)",
+          "BOC Aviation Limited (Aircraft Leasing)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹2,26,077 Crore",
+        "P/E Ratio": "33.73x",
+        "EPS": "₹187.93 (FY25)",
+        "Revenue": "₹80,496 Cr (FY25)",
+        "PAT": "₹7,258.4 Cr (FY25)",
+        "Debt-to-Equity": "7.13",
+        "1-Year Return": "+27.38%"
+      },
+      "Current Status": "Dominant airline with 64.2% domestic market share; transitioning fleet due to P&W engine groundings; focused on international expansion (A350-900)."
+    },
+    {
+      "id": "MAXHEALTH",
+      "name": "Max Healthcare Institute Ltd",
+      "logo": "./maxhostital.png",
+      "sector": "Healthcare - Hospitals",
+      "investors": [
+        "Promoters (38.5%)",
+        "FII (44.78%)",
+        "DII (16%)"
+      ],
+      "competition": {
+        "indian": [
+          "APOLLOHOSP"
+        ],
+        "global": [
+          "Fortis Healthcare"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Max Lab"
+        ],
+        "global": [
+          "KKR",
+          "Temasek"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹115,000 Cr",
+        "P/E Ratio": "85.5",
+        "EPS": "13.45",
+        "Revenue": "₹9,802 Cr",
+        "PAT": "₹1,480 Cr",
+        "Div Yield": "0.0%",
+        "52W High": "₹1,350.0",
+        "52W Low": "₹785.0",
+        "YTD Return": "45.5%"
+      }
+    },
+    {
+      "id": "ASIANPAINT",
+      "name": "Asian Paints Ltd",
+      "logo": "./asian-paints-logo.webp",
+      "sector": "Consumer Durables - Paints",
+      "investors": [
+        "Promoters (52.7%)",
+        "FII (18%)",
+        "DII (29%)"
+      ],
+      "competition": {
+        "indian": [
+          "Berger Paints"
+        ],
+        "global": [
+          "AkzoNobel",
+          "PPG Industries"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Asian Paints (Polymers)"
+        ],
+        "global": [
+          "Chemical Supplier P"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹254,000 Cr",
+        "P/E Ratio": "58.5",
+        "EPS": "45.3",
+        "Revenue": "₹37,856 Cr",
+        "PAT": "₹6,489 Cr",
+        "Div Yield": "0.78%",
+        "52W High": "₹3,422.0",
+        "52W Low": "₹2,611.0",
+        "YTD Return": "-23.73%"
+      }
+    },
+    {
+      "id": "TATACONSUM",
+      "name": "Tata Consumer Products Ltd",
+      "logo": "./tata consumer.jpg",
+      "sector": "FMCG - Pantry Platform",
+      "investors": [
+        "Promoter Holding: 33.84%",
+        "FII Holding: 21.96%",
+        "DII Holding: 22.0%",
+        "LIC (8.13%)",
+        "BlackRock, Inc. (2.46%)"
+      ],
+      "competition": {
+        "indian": [
+          "NESTLEIND",
+          "HINDUNILVR",
+          "ITC",
+          "BRITANNIA"
+        ],
+        "global": [
+          "Mondelez International Inc.",
+          "Associated British Foods Plc",
+          "Unilever"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Tata Coffee",
+          "Tata Sampann (Internal)",
+          "MSMEs (32% sourcing)"
+        ],
+        "global": [
+          "Starbucks (50% JV)",
+          "Sustainable Packaging Vendors"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,16,390 Cr",
+        "P/E Ratio": "82.35x (TTM)",
+        "EPS": "₹12.82 (Adjusted FY25)",
+        "Revenue": "₹17,618 Crore (FY25)",
+        "PAT": "₹1,287 Crore (FY25)",
+        "Debt-to-equity": "0.11x",
+        "India Foods Growth": "29% (FY25)"
+      }
+    },
+    {
+      "id": "ULTRACEMCO",
+      "name": "UltraTech Cement Limited",
+      "logo": "./UltraTech Cement Ltd.png",
+      "sector": "Cement & Construction Materials",
+      "investors": [
+        "Promoter Holding: 59.23%",
+        "FII/FPI: 15.33% - 15.82%",
+        "Mutual Funds: 14.06%",
+        "SBI (5.01%)",
+        "LIC (4.5%)"
+      ],
+      "competition": {
+        "indian": [
+          "Ambuja Cements Ltd. (Adani Group)",
+          "Shree Cement Ltd.",
+          "Dalmia Bharat"
+        ],
+        "global": [
+          "LafargeHolcim"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Container Corporation of India (CONCOR) (Logistics Partner)",
+          "Aditya Birla Chemicals",
+          "BASF India"
+        ],
+        "global": [
+          "Industrial Byproducts (Fly Ash & Slag Sources)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹3,61,000 – ₹3,71,296 Cr (Approx)",
+        "P/E Ratio": "50x (TTM)",
+        "EPS": "₹229.97 to ₹251.32 (TTM)",
+        "Revenue": "₹75,955 crore (FY25)",
+        "PAT": "₹6,039 crore (FY25)",
+        "Debt-to-equity": "0.2x",
+        "NPM": "8.6%"
+      }
+    },
+    {
+      "id": "TITAN",
+      "name": "Titan Company Limited",
+      "logo": "./titan.png",
+      "sector": "Lifestyle & Retail (Jewellery, Watches, Eyewear)",
+      "investors": [
+        "Promoters (Tata Group/TIDCO): 52.90%",
+        "FII/FPI: 16.11%",
+        "Mutual Funds: 7.84%",
+        "Ms. Rekha Jhunjhunwala (Highest Public Shareholder: 4.08%)"
+      ],
+      "competition": {
+        "indian": [
+          "Kalyan Jewellers India Ltd.",
+          "Senco Gold Ltd.",
+          "Timex",
+          "Casio"
+        ],
+        "global": []
+      },
+      "suppliers": {
+        "indian": [
+          "Titan Engineering and Automation Limited (TEAL) (Subsidiary)",
+          "Project MEADOW (Artisan Partnerships)"
+        ],
+        "global": [
+          "Gold/Precious Material Sourcing (Recycled Gold/Exchange Programs)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹3,26,243 Crores",
+        "P/E Ratio": "87.87x (TTM)",
+        "EPS": "₹37.62 (FY25)",
+        "Revenue": "₹60,942 crores (FY25)",
+        "PAT": "₹3,337 crores (FY25)",
+        "Debt-to-equity": "1.56x",
+        "Asset Growth (FY25)": "24.99%"
+      }
+    },
+    {
+      "id": "SBILIFE",
+      "name": "SBI Life Insurance Company Ltd",
+      "logo": "./sbi life insurance.png",
+      "sector": "Financial Services - Insurance",
+      "investors": [
+        "Promoter (SBI): 55.36%",
+        "FII/FPI: 21.85%",
+        "Mutual Funds: 15.02%",
+        "LIC (1.69%)",
+        "Temasek Holdings (1.51%)"
+      ],
+      "competition": {
+        "indian": [
+          "HDFCLIFE",
+          "ICICIPRULI (ICICI Prudential Life)",
+          "MAXLIFE",
+          "Life Insurance Corporation of India (LIC)"
+        ],
+        "global": [
+          "Aegon",
+          "Zurich"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "SBIN (Bancassurance Moat)",
+          "Insurance software platforms"
+        ],
+        "global": [
+          "BNP Paribas Cardif (10%)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,84,487 Cr",
+        "P/E Ratio": "74.29x (TTM)",
+        "EPS": "₹24.13 (FY25 est.)",
+        "Revenue": "₹1.21 Trillion (TTM)",
+        "PAT": "₹2,413 Cr (FY25)",
+        "Debt-to-equity": "0.0x (Near Zero)",
+        "RoEV": "20.2%"
+      }
+    },
+    {
+      "id": "LTIM",
+      "name": "LTIMindtree Limited",
+      "logo": "./ltimindtree.png",
+      "sector": "Information Technology, Consulting",
+      "investors": [
+        "Promoter (L&T): 68.54%",
+        "DII (Total): 16.7%",
+        "LIC (9.03%)",
+        "FII/FPI: 6.40%",
+        "The Vanguard Group (1.32%)"
+      ],
+      "competition": {
+        "indian": [
+          "TCS",
+          "INFY",
+          "WIPRO",
+          "HCLTECH"
+        ],
+        "global": [
+          "Accenture",
+          "Cognizant"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Larsen & Toubro (L&T) (Parent/Engineering Link)",
+          "LIC (Anchor Investor)"
+        ],
+        "global": [
+          "Appian (BPM Solutions)",
+          "PTC (IIoT/Industry 4.0 Partner)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹1,68,539 Cr",
+        "P/E Ratio": "34.6x (TTM)",
+        "EPS": "N/A",
+        "Revenue": "N/A",
+        "PAT": "₹4,851.1 Cr (TTM est.)",
+        "ROE": "21.5%",
+        "ROCE": "27.6%"
+      }
+    },
+    {
+      "id": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Limited",
+      "logo": "./Sun Pharmaceutical Industries Ltd.png",
+      "sector": "Healthcare - Pharma",
+      "investors": [
+        "Promoter (Dilip Shanghvi): 54.48%",
+        "FIIs: 16.55%",
+        "Mutual Funds: 12.41%",
+        "LIC (8.12%)",
+        "Goldman Sachs (3.89%)"
+      ],
+      "competition": {
+        "indian": [
+          "DRREDDY",
+          "CIPLA",
+          "Lupin",
+          "Aurobindo Pharma"
+        ],
+        "global": [
+          "Teva (Generic Leader)",
+          "Novartis",
+          "Pfizer"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "DIVISLAB",
+          "Laurus Labs",
+          "Suven Pharmaceuticals",
+          "Granules India"
+        ],
+        "global": [
+          "API/Intermediates Vendors"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹4,05,151 Cr",
+        "P/E Ratio": "38.98x",
+        "EPS": "₹45.60",
+        "Revenue": "₹52,578.44 Cr (FY25)",
+        "PAT": "₹10,929.04 Cr (FY25)",
+        "Debt-to-equity": "0.03"
+      }
+    },
+    {
+      "id": "LT",
+      "name": "Larsen & Toubro Limited",
+      "logo": "./Larsen & Toubro Ltd.jpg",
+      "sector": "Engineering, Construction & Conglomerate",
+      "investors": [
+        "Promoter Holding: 0.00%",
+        "DII Total: 43.6%",
+        "FII/FPI: 19.48%",
+        "Mutual Funds: 20.55%",
+        "L&T Employees Trust (14.33%)"
+      ],
+      "competition": {
+        "indian": [
+          "Tata Projects",
+          "ADANIENT",
+          "Reliance Infrastructure"
+        ],
+        "global": [
+          "China Railway Engineering Corporation (CREC)",
+          "ACS",
+          "Acciona"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "ABB India",
+          "SIEMENS",
+          "CUMMINSIND (Engines/Gensets)",
+          "ULTRACEMCO (Material)"
+        ],
+        "global": [
+          "TenneT (Offshore Wind Partner)",
+          "Hitachi Energy (HVDC Partner)"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹5.5 lakh crore (Approx)",
+        "P/E Ratio": "N/A",
+        "EPS": "₹109.36 (FY25E)",
+        "Revenue": "₹2,59,859.27 Cr (FY25E)",
+        "PAT": "₹15,037 - ₹17,687 Cr (FY25E)",
+        "Debt-to-equity": "1.12:1 (FY25E)",
+        "Order Book": "₹5,64,223 crore (Q3 FY25)"
+      }
+    },
+    {
+      "id": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Ltd",
+      "logo": "./Kotak Mahindra Bank Ltd.png",
+      "sector": "Banking",
+      "investors": [
+        "Promoter (Uday Kotak): 25.88%",
+        "DII Total: 32.02%",
+        "FII/FPI: 29.75%",
+        "Mutual Funds: 20.77%",
+        "HDFC AMC (2.66%)",
+        "BlackRock, Inc. (2.29%)"
+      ],
+      "competition": {
+        "indian": [
+          "HDFCBANK",
+          "ICICIBANK",
+          "AXISBANK",
+          "SBIN"
+        ],
+        "global": [
+          "Goldman Sachs (Investment Banking)",
+          "HSBC Securities"
+        ]
+      },
+      "suppliers": {
+        "indian": [
+          "Infosys Ltd",
+          "HCL Technologies Ltd",
+          "Wipro Ltd"
+        ],
+        "global": [
+          "Oracle Financial Services Software (OFSS)",
+          "IBM"
+        ]
+      },
+      "financials": {
+        "Market Cap": "₹431,683 Cr",
+        "P/E Ratio": "19.5x (FY25 Reported)",
+        "EPS": "₹111.3 (FY25)",
+        "Revenue": "N/A",
+        "PAT": "₹22,126 Cr (FY25 Reported)",
+        "Debt-to-equity": "3.76x",
+        "Net NPA": "0.32% (Q2 FY26)"
+      }
+    }
+  ]
+}
